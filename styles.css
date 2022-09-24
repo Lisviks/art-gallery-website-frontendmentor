@@ -164,6 +164,26 @@ footer .socials {
   align-items: center;
 }
 
+footer .socials div {
+  height: 2rem;
+  width: 2rem;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat !important;
+}
+
+footer .socials .facebook {
+  background: url('./assets/icon-facebook.svg');
+}
+
+footer .socials .instagram {
+  background: url('./assets/icon-instagram.svg');
+}
+
+footer .socials .twitter {
+  background: url('./assets/icon-twitter.svg');
+}
+
 @media (min-width: 768px) {
   .container {
     max-width: 850px;
