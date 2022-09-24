@@ -345,4 +345,13 @@ footer .socials {
     grid-column: 2 / 3;
     grid-row: 2 / 3;
   }
+
+  footer {
+    padding: 8rem 0;
+  }
+
+  footer p {
+    margin: 0 28rem 0 14.043rem;
+    width: 43rem;
+  }
 }
