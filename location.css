@@ -65,6 +65,7 @@ footer .socials .twitter {
 
 @media (min-width: 768px) {
   header {
+    padding-left: 4rem;
     height: 60rem;
     background: url('./assets/tablet/image-map.png');
   }
@@ -75,6 +76,7 @@ footer .socials .twitter {
 
   main .container {
     display: flex;
+    justify-content: space-between;
   }
 
   main .content {
@@ -85,7 +87,6 @@ footer .socials .twitter {
     font-size: 5.5rem;
     line-height: 5rem;
     width: 22.3rem;
-    margin-right: 6.8rem;
   }
 
   main h2 {
@@ -95,6 +96,7 @@ footer .socials .twitter {
 
 @media (min-width: 1440px) {
   header {
+    padding-left: 16.5rem;
     background: url('./assets/desktop/image-map.png');
   }
 
@@ -110,7 +112,6 @@ footer .socials .twitter {
     font-size: 7rem;
     line-height: 7rem;
     width: 35rem;
-    margin-right: 22rem;
   }
 
   main h2 {

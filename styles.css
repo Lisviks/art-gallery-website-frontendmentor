@@ -253,14 +253,13 @@ footer .socials .twitter {
   }
 
   footer {
-    padding: 5.6rem 0;
+    padding: 5.6rem 4rem;
   }
 
   footer .container {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    padding: 0 4rem;
   }
 
   footer p {
@@ -388,11 +387,7 @@ footer .socials .twitter {
   }
 
   footer {
-    padding: 8rem 0;
-  }
-
-  footer .container {
-    padding: 0 16.5rem;
+    padding: 8rem 16.5rem;
   }
 
   footer p {
