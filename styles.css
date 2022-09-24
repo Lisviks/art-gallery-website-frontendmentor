@@ -342,6 +342,10 @@ footer .socials .twitter {
     background-color: var(--almost-black);
   }
 
+  main {
+    margin-top: 18rem;
+  }
+
   main .grid-1 {
     grid-template-columns: 35rem 63.5rem;
     gap: 12.5rem;
