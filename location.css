@@ -68,4 +68,27 @@ footer .socials .twitter {
     height: 60rem;
     background: url('./assets/tablet/image-map.png');
   }
+
+  main {
+    padding: 8.8rem 0 8rem;
+  }
+
+  main .container {
+    display: flex;
+  }
+
+  main .content {
+    width: 40rem;
+  }
+
+  main h1 {
+    font-size: 5.5rem;
+    line-height: 5rem;
+    width: 22.3rem;
+    margin-right: 6.8rem;
+  }
+
+  main h2 {
+    margin-top: 0;
+  }
 }
