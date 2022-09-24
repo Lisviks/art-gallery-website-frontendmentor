@@ -41,3 +41,24 @@ main p {
   color: var(--white);
   margin-top: 2rem;
 }
+
+footer {
+  margin-top: 0;
+  background-color: var(--gold);
+}
+
+footer p {
+  color: var(--almost-black);
+}
+
+footer .socials .facebook {
+  background: url('./assets/icon-facebook-dark.svg');
+}
+
+footer .socials .instagram {
+  background: url('./assets/icon-instagram-dark.svg');
+}
+
+footer .socials .twitter {
+  background: url('./assets/icon-twitter-dark.svg');
+}
