@@ -387,4 +387,16 @@ footer .socials .twitter {
     margin: 0 28rem 0 14.043rem;
     width: 43rem;
   }
+
+  footer .socials .facebook:hover {
+    background: url('./assets/icon-facebook-gold.svg');
+  }
+
+  footer .socials .instagram:hover {
+    background: url('./assets/icon-instagram-gold.svg');
+  }
+
+  footer .socials .twitter:hover {
+    background: url('./assets/icon-twitter-gold.svg');
+  }
 }
