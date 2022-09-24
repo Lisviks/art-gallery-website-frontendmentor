@@ -24,7 +24,7 @@ body {
 
 h1,
 h2,
-button {
+.btn {
   font-family: 'Big Shoulders Display', cursive;
   text-transform: uppercase;
 }
@@ -53,6 +53,7 @@ img {
   background-color: transparent;
   height: 7.2rem;
   overflow: hidden;
+  text-decoration: none;
 }
 
 .btn .text {
