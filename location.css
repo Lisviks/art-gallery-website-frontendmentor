@@ -128,4 +128,16 @@ footer .socials .twitter {
   main p:last-child {
     margin-bottom: 0;
   }
+
+  footer .socials .facebook:hover {
+    background: url('./assets/icon-facebook.svg');
+  }
+
+  footer .socials .instagram:hover {
+    background: url('./assets/icon-instagram.svg');
+  }
+
+  footer .socials .twitter:hover {
+    background: url('./assets/icon-twitter.svg');
+  }
 }
