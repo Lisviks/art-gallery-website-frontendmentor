@@ -52,6 +52,7 @@ img {
   border: none;
   background-color: transparent;
   height: 7.2rem;
+  width: fit-content;
   overflow: hidden;
   text-decoration: none;
 }

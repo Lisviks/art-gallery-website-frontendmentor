@@ -1,0 +1,7 @@
+header {
+  height: 55rem;
+  background: url('./assets/mobile/image-map.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
