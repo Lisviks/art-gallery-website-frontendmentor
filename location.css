@@ -8,9 +8,9 @@
 header {
   height: 55rem;
   background: url('./assets/mobile/image-map.png');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
 }
 
 main {
@@ -90,5 +90,11 @@ footer .socials .twitter {
 
   main h2 {
     margin-top: 0;
+  }
+}
+
+@media (min-width: 1440px) {
+  header {
+    background: url('./assets/desktop/image-map.png');
   }
 }
