@@ -62,3 +62,10 @@ footer .socials .instagram {
 footer .socials .twitter {
   background: url('./assets/icon-twitter-dark.svg');
 }
+
+@media (min-width: 768px) {
+  header {
+    height: 60rem;
+    background: url('./assets/tablet/image-map.png');
+  }
+}
