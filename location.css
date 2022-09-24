@@ -96,7 +96,7 @@ footer .socials .twitter {
 
 @media (min-width: 1440px) {
   header {
-    padding-left: 16.5rem;
+    padding: 0 16.5rem;
     background: url('./assets/desktop/image-map.png');
   }
 
