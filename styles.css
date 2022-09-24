@@ -246,6 +246,19 @@ footer .socials {
     padding: 0 16.4rem;
   }
 
+  .btn:hover,
+  .socials div {
+    cursor: pointer;
+  }
+
+  .btn:hover .text {
+    background-color: var(--gold);
+  }
+
+  .btn:hover .arrow {
+    background-color: var(--almost-black);
+  }
+
   header .content {
     width: 111rem;
     position: absolute;
