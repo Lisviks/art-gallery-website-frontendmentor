@@ -395,9 +395,15 @@ footer .socials .twitter {
     padding: 8rem 16.5rem;
   }
 
+  footer .logo {
+    width: 15.957rem;
+  }
+
   footer p {
     margin: 0 28rem 0 14.043rem;
     width: 43rem;
+    font-size: 1.8rem;
+    line-height: 2.8rem;
   }
 
   footer .socials .facebook:hover {
